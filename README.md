@@ -63,14 +63,13 @@ print(f"Received {data!r}")
 ## OUTPUT:
 ### SERVER
 
-![image](file:///home/perarasu/Pictures/Screenshots/Screenshot%20from%202024-02-26%2021-52-53.png![image](https://github.com/PERARASU10/Echoserver/assets/118348589/8325bde5-ecb2-4487-be9d-960e51695c84)
-)
+![image](https://github.com/PERARASU10/Echoserver/assets/118348589/8325bde5-ecb2-4487-be9d-960e51695c84)
 
 ### CLIENT
 
 
-![image](file:///home/perarasu/Pictures/Screenshots/Screenshot%20from%202024-02-26%2021-53-01.png![image](https://github.com/PERARASU10/Echoserver/assets/118348589/2463fec8-6b46-4821-9413-d759843ea03b)
-)
+![image](https://github.com/PERARASU10/Echoserver/assets/118348589/2463fec8-6b46-4821-9413-d759843ea03b)
+
 
 ## RESULT:
 The program is executed successfully
